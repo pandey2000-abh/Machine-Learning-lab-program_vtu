@@ -1,0 +1,19 @@
+age,sex,cp,trestbps,chol,heartDisease
+SeniorCitizen,Male,Typical angina,High,High,Yes
+Teen,Male,Atypical angina,Normal,High,No
+Youth,Female,Non-anginal pain,Low,Normal,No
+MiddleAged,Male,Atypical angina,Low,High,Yes
+Teen,Male,Atypical angina,Normal,Normal,Yes
+SuperSeniorCitizen,Male,Non-anginal pain,Normal,High,Yes
+Youth,Female,Non-anginal pain,Low,High,No
+SeniorCitizen,Female,Typical angina,High,Low,Yes
+Teen,Female,Atypical angina,High,Low,No
+Teen,Male,Typical angina,Low,Normal,No
+MiddleAged,Female,Non-anginal pain,Normal,Normal,No
+MiddleAged,Male,Atypical angina,High,Normal,Yes
+Youth,Female,Non-anginal pain,High,Normal,No
+SuperSeniorCitizen,Male,Typical angina,Low,High,Yes
+SeniorCitizen,Female,Atypical angina,Normal,Normal,Yes
+Youth,Female,Non-anginal pain,Low,Low,No
+Teen,Male,Typical angina,Normal,Normal,No
+Teen,Male,Typical angina,Normal,Normal
